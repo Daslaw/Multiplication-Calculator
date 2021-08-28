@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Daslaw\\multiplication1\\multiplication1.csproj": {}
+    "C:\\Users\\Daslaw\\multiplication1\\multiplication1.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Daslaw\\multiplication1\\multiplication1.csproj": {
+    "C:\\Users\\Daslaw\\multiplication1\\multiplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Daslaw\\multiplication1\\multiplication1.csproj",
+        "projectUniqueName": "C:\\Users\\Daslaw\\multiplication1\\multiplication1.csproj",
         "projectName": "multiplication1",
-        "projectPath": "c:\\Users\\Daslaw\\multiplication1\\multiplication1.csproj",
+        "projectPath": "C:\\Users\\Daslaw\\multiplication1\\multiplication1.csproj",
         "packagesPath": "C:\\Users\\Daslaw\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Daslaw\\multiplication1\\obj\\",
+        "outputPath": "C:\\Users\\Daslaw\\multiplication1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Daslaw\\AppData\\Roaming\\NuGet\\NuGet.Config",

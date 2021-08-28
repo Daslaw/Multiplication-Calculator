@@ -1,0 +1,16 @@
+C:\Users\Daslaw\multiplication1\bin\Debug\net5.0\multiplication1.exe
+C:\Users\Daslaw\multiplication1\bin\Debug\net5.0\multiplication1.deps.json
+C:\Users\Daslaw\multiplication1\bin\Debug\net5.0\multiplication1.runtimeconfig.json
+C:\Users\Daslaw\multiplication1\bin\Debug\net5.0\multiplication1.runtimeconfig.dev.json
+C:\Users\Daslaw\multiplication1\bin\Debug\net5.0\multiplication1.dll
+C:\Users\Daslaw\multiplication1\bin\Debug\net5.0\ref\multiplication1.dll
+C:\Users\Daslaw\multiplication1\bin\Debug\net5.0\multiplication1.pdb
+C:\Users\Daslaw\multiplication1\obj\Debug\net5.0\multiplication1.csproj.AssemblyReference.cache
+C:\Users\Daslaw\multiplication1\obj\Debug\net5.0\multiplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daslaw\multiplication1\obj\Debug\net5.0\multiplication1.AssemblyInfoInputs.cache
+C:\Users\Daslaw\multiplication1\obj\Debug\net5.0\multiplication1.AssemblyInfo.cs
+C:\Users\Daslaw\multiplication1\obj\Debug\net5.0\multiplication1.csproj.CoreCompileInputs.cache
+C:\Users\Daslaw\multiplication1\obj\Debug\net5.0\multiplication1.dll
+C:\Users\Daslaw\multiplication1\obj\Debug\net5.0\ref\multiplication1.dll
+C:\Users\Daslaw\multiplication1\obj\Debug\net5.0\multiplication1.pdb
+C:\Users\Daslaw\multiplication1\obj\Debug\net5.0\multiplication1.genruntimeconfig.cache
